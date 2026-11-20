@@ -1,0 +1,43 @@
+# Local credentials and deployment records
+/.codex/
+/sms-test/config.json
+/sms-test/*-verification.json
+/sms-test/nginx.conf
+/sms-test/trigger-sms.service
+/sms-test/verify_public.py
+/app/试用说明.txt
+.env
+.env.*
+!.env.example
+
+# Build output and local caches
+/app/build/
+/dist/
+cmake-build-*/
+.vs/
+*.user
+CMakeUserPresets.json
+__pycache__/
+*.py[cod]
+.venv/
+
+# Downloaded reference projects and packages
+/.source-downloads/
+/PowerToys/
+/PersistentWindows/
+/WindowAnchor/
+/sms-test/downloads/
+/app/vendor/webview2.nupkg
+
+# WebView2 headers, x64 loader and license used by Trigger
+/app/vendor/webview2/*
+!/app/vendor/webview2/LICENSE.txt
+!/app/vendor/webview2/NOTICE.txt
+!/app/vendor/webview2/build/
+/app/vendor/webview2/build/*
+!/app/vendor/webview2/build/native/
+/app/vendor/webview2/build/native/*
+!/app/vendor/webview2/build/native/include/
+!/app/vendor/webview2/build/native/x64/
+/app/vendor/webview2/build/native/x64/*
+!/app/vendor/webview2/build/native/x64/WebView2LoaderStatic.lib

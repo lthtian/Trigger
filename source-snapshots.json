@@ -1,0 +1,32 @@
+[
+  {
+    "repository": "marvintrvl/WindowAnchor",
+    "branch": "main",
+    "revision": "556360db714e479e301044ee7db97ba61dc9df48",
+    "directory": "D:\\Trigger\\WindowAnchor",
+    "archive": "D:\\Trigger\\.source-downloads\\WindowAnchor.zip",
+    "archiveSha256": "5FCCF3B0F2F7F60A712A60AF2CB9684421B71E9F5641A17B27A5E17170263484",
+    "downloadedAt": "2026-10-22T02:27:39.1420584+00:00",
+    "acquisition": "source archive"
+  },
+  {
+    "repository": "kangyu-california/PersistentWindows",
+    "branch": "master",
+    "revision": "973d79689a0ebf0578be661f2deb5c2ea469143a",
+    "directory": "D:\\Trigger\\PersistentWindows",
+    "archive": "D:\\Trigger\\.source-downloads\\PersistentWindows.zip",
+    "archiveSha256": "D78C81B2456E7FEFF66C8250B94EBCEC3D734AAC2C57DC51B66D63C5529BAE9F",
+    "downloadedAt": "2026-10-22T02:27:41.5654034+00:00",
+    "acquisition": "source archive"
+  },
+  {
+    "repository": "microsoft/PowerToys",
+    "branch": "main",
+    "revision": "48c4bad0723da17eecf45823df563d3de3a522ac",
+    "directory": "D:\\Trigger\\PowerToys",
+    "archive": "D:\\Trigger\\.source-downloads\\PowerToys.zip",
+    "archiveSha256": "13FAC01FD83C322CFC865EF7B10329E2CEED52E4505CDD18A7C8B0E9D58F39CD",
+    "downloadedAt": "2026-10-22T02:29:31.0431612+00:00",
+    "acquisition": "source archive"
+  }
+]
